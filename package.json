@@ -1,0 +1,10 @@
+{
+  "name": "ccb-features",
+  "version": "1.0.0",
+  "description": "Feature flag system for OpenClaw - global on/off switches for experimental features",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "features"],
+  "license": "MIT"
+}
