@@ -1,0 +1,11 @@
+{
+  "name": "ccb-features",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "list": "node list.ts",
+    "check": "node check.ts",
+    "enable": "node enable.ts",
+    "disable": "node disable.ts"
+  }
+}
